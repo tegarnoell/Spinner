@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ONEHealth</string>
+    <string name="angle">45</string>
+
+    <!--Items-->
+    <string name="regis">Registration Form</string>
+    <string name="full">Full Name</string>
+    <string name="id">ID</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Mobile Phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="blood">Blood Type</string>
+    <string name="heigh">Height</string>
+    <string name="weight">Weight</string>
+    <string name="button">NEXT</string>
+</resources>
